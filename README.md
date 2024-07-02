@@ -13,6 +13,7 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ Teoria de Tipos ⚡
 
 
 ## Palestras/Videos 📽️ 
+- [**Computational Type Theory - Robert Harper - OPLSS**](https://www.youtube.com/watch?v=LE0SSLizYUI)
 - [**Teoria dos tipos na programação (feat Marcos Magueta)**](https://www.youtube.com/watch?v=DzqZpI8O0AI&t=435s)
 
 
