@@ -1,4 +1,4 @@
-# Awesome eXtreme Programming
+# Awesome Type Theory
 
 Uma lista de recursos pra estudar e ir fundo em ⚡ Teoria de Tipos ⚡
 
