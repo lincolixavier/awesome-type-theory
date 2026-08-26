@@ -10,12 +10,10 @@ Uma lista de recursos pra estudar e ir fundo em ⚡ Teoria de Tipos ⚡
 ## Artigos 🌐 
 - [**Na Wikipedia**](https://pt.wikipedia.org/wiki/Teoria_dos_tipos)
 
-## Vídeos 
-- [**Type Theory in Computer Science, Linguistics, Logic**](https://www.youtube.com/watch?v=TrYosPPCQAY)
-
 ## Palestras/Videos 📽️ 
 - [**Computational Type Theory - Robert Harper - OPLSS**](https://www.youtube.com/watch?v=LE0SSLizYUI)
 - [**Teoria dos tipos na programação (feat Marcos Magueta)**](https://www.youtube.com/watch?v=DzqZpI8O0AI&t=435s)
+- [**Type Theory in Computer Science, Linguistics, Logic**](https://www.youtube.com/watch?v=TrYosPPCQAY)
 
 ## Podcasts 🎧
 - [**Peter Dybjer on types and testing**](https://typetheorypodcast.com/2014/08/episode-1-peter-dybjer-on-type-theory-and-testing/)
